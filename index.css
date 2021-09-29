@@ -9,4 +9,9 @@ div{
 
 header{
   display: flex;
+  flex-direction: column;
+  width: 300px:
+}
+header:hover{
+  purple
 }
