@@ -1,0 +1,12 @@
+img{
+  height:400px;
+  
+}
+div{
+  border: 15px solid black;
+  padding: 15px;
+}
+
+header{
+  display: flex;
+}
