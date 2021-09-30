@@ -2,16 +2,15 @@ img{
   height:400px;
   
 }
-div{
-  border: 15px solid black;
-  padding: 15px;
-}
+
 
 header{
+  
   display: flex;
-  flex-direction: column;
-  width: 300px:
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 300px;
+  
+  
 }
-header:hover{
-  purple
-}
+
